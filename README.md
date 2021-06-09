@@ -1,1 +1,1 @@
-# This project takes a student's schedule and the open course list and outputs all the possible courses that the student can take based upon their schedule and their eligibility.
+# This project outputs all the possible courses that a student can take based upon their schedule, the open course list, and course prerequisites.
